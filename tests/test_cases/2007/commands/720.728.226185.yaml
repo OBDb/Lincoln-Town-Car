@@ -1,0 +1,8 @@
+command_id: 720.728.226185
+test_cases:
+- expected_values:
+    LINCOLN_FLI_V2: 7.05882
+  response: '7280462618512'
+- expected_values:
+    LINCOLN_FLI_V2: 19.21569
+  response: '7280462618531'
