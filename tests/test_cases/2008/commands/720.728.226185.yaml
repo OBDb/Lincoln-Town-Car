@@ -1,8 +1,8 @@
 command_id: 720.728.226185
 test_cases:
 - expected_values:
-    LINCOLN_FLI_V2: 65.09804
-  response: 72804626185A6
+    LINCOLN_FLI_V2: 58.03922
+  response: '7280462618594'
 - expected_values:
     LINCOLN_FLI_V2: 91.76471
   response: 72804626185EA
