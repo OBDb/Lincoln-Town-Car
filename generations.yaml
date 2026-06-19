@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Lincoln_Town_Car"
+
 generations:
   - name: "First Generation (FN36/FN5)"
     start_year: 1981
