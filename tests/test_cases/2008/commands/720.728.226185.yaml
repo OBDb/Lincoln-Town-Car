@@ -1,8 +1,8 @@
 command_id: 720.728.226185
 test_cases:
 - expected_values:
-    LINCOLN_FLI_V2: 0
+    TOWNCAR_FLI_ALT: 0
   response: '7280462618500'
 - expected_values:
-    LINCOLN_FLI_V2: 99.60784
+    TOWNCAR_FLI_ALT: 99.60784
   response: 72804626185FE
