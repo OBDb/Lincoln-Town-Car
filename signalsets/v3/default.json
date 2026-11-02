@@ -1,5 +1,5 @@
 { "commands": [
-{ "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 5, "dbgfilter": { "to": 2005, "from": 2009 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 1, "dbgfilter": { "to": 2005, "from": 2009 },
   "signals": [
     {"id": "TOWNCAR_FLI_ALT", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level, alternate", "suggestedMetric": "fuelTankLevel"}
   ]},
